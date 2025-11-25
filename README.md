@@ -5,7 +5,7 @@ Junior Front-End Developer
 
 🧰 Tech Stack 
 
-HTML CSS JavaScript React Next.js TypeScript
+HTML | CSS | JavaScript | React | Next.js | TypeScript
 
 Tools:
 GitHub VS Code
@@ -27,9 +27,9 @@ Participated in the development of a modern e-commerce website featuring a dynam
 
 🗣️ Languages
 
-![English](elementary)
+![English] - elementary
 
-![Ukrainian](native)
+![Ukrainian] - native
 
 
 📫 How to reach me:  
