@@ -1,7 +1,7 @@
 ##  👋 Hi, I'm Artem Pobehailo
 
 
-**Junior Front-End Developer
+Junior Front-End Developer
 
 🧰 Tech Stack 
 
