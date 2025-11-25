@@ -27,9 +27,9 @@ Participated in the development of a modern e-commerce website featuring a dynam
 
 🗣️ Languages
 
-![English] - elementary
+English - elementary
 
-![Ukrainian] - native
+Ukrainian - native
 
 
 📫 How to reach me:  
