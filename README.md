@@ -29,3 +29,6 @@ Participated in the development of a modern e-commerce website featuring a dynam
 [LinkedIn](https://www.linkedin.com/in/artem-pobehailo) 
 
 [Email](mailto:partemishe@gmail.com): partemishe@gmail.com
+
+[Email]([mailto:partemishe@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=partemishe@gmail.com)): partemishe@gmail.com
+https://mail.google.com/mail/?view=cm&fs=1&to=partemishe@gmail.com
